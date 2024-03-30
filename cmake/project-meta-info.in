@@ -1,0 +1,2 @@
+set( project_version 1.0.0 )
+set( project_description "C++ implementations of nonlinear filters from the course Sensor Fusion and Non-linear Filtering for Automotive Systems" )
